@@ -1,0 +1,32 @@
+.list-header{
+	border-bottom: 2px solid gray;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #a1a1a1;
+	font-weight: 500;
+}
+
+.list-header b{		
+	font-weight: 600;
+}
+
+.list-item{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #505050;
+	color: #505050;
+}
+
+.acompanhamento{
+	margin-bottom: 10px;
+}
+
+.notificacaoBtn{
+	margin-top: 10%;
+	margin-bottom: 20%;
+}
+
+.notificacaoTxt{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
