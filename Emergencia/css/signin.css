@@ -1,5 +1,5 @@
 body {
-  padding-top: 40px;
+  padding-top: 70px;
   padding-bottom: 40px;
   background-color:#c9d4d4;
 }
@@ -55,4 +55,7 @@ body {
 .panel-default>.panel-heading h4{ 
   color: #33b5e5;
   font-weight: 700;
+}
+.navbar-brand{
+	color:#33b5e5;
 }
